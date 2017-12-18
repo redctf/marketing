@@ -9,7 +9,7 @@ module.exports = {
     app: ["babel-polyfill", "whatwg-fetch", "./src/index"]
   },
   output: {
-    path: path.join(__dirname, "dist"),
+    path: path.join(__dirname, "docs"),
     publicPath: "",
     filename: "./assets/[name].[hash].js",
     chunkFilename: "./assets/[name].[chunkhash].js"
