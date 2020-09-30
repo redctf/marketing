@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="317.5mm" height="57.9437mm"
+  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+  <desc>redctf logo</desc>
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Montserrat";
+        src: url("data:application/font-woff;charset=utf-8;base64,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") format("woff2");
+        unicode-range: U+004B, U+0041, U+004D
+      }
+      text { 
+        font-size: 125px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 100; 
+      }
+    </style>
+  </defs>
+  <g 
+    fill="none" stroke="black" stroke-width="1" 
+    fill-rule="evenodd" 
+    stroke-linecap="square" stroke-linejoin="bevel" >
+    <g fill="#9c0404" fill-opacity="1" stroke="#9c0404" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+      >
+      <text fill="#9c0404" fill-opacity="1" stroke="none" xml:space="preserve" x="8" y="142" font-size="125" font-weight="100" font-style="normal" style="letter-spacing: -10px;"
+        >red</text>
+    </g>
+    <g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+      >
+      <text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="160" y="142" font-size="125" font-weight="100" font-style="normal" style="letter-spacing: -6px;"
+        >ctf</text>
+    </g>
+  </g>
+</svg>
